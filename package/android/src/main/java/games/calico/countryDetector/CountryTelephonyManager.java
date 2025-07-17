@@ -1,4 +1,4 @@
-package games.calico.countryDetector;
+package games.calico.countrydetector;
 
 import android.content.Context;
 import android.telephony.TelephonyManager;

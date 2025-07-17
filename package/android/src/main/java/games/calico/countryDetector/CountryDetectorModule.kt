@@ -1,4 +1,4 @@
-package games.calico.countryDetector
+package games.calico.countrydetector
 
 import com.facebook.react.bridge.ReactApplicationContext
 import com.facebook.react.bridge.ReactContextBaseJavaModule

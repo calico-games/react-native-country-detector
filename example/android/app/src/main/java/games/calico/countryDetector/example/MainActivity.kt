@@ -1,4 +1,4 @@
-package games.calico.countryDetector.example
+package games.calico.countrydetector.example
 
 import android.os.Bundle
 import com.facebook.react.ReactActivity
