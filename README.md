@@ -52,4 +52,4 @@ if (country) {
 
 ## Warnings ⚠️
 
-- **iOS**: The package uses a private API to determine the country, which **may** lead to rejection from the App Store. Use at your own risk. We obsfucate the code to avoid detection. Note that we have used this technique for years in production apps without any issues 🙂.
+The package uses a private API to determine the country, which **may** lead to rejection from the App Store. Use at your own risk. We obsfucate the code to avoid detection. Note that we have used this technique for years in production apps without any issues 🙂.
