@@ -27,10 +27,10 @@ yarn add react-native-country-detector
 
 ## Usage 😈
 
-To use the Country Detector in your React Native application, you can import it and call the `getCountry` method. Here's an example:
+To use the Country Detector in your React Native application, you can import it and call the `getCountryCode` method. Here's an example:
 
 ```tsx
-import {getCountry} from 'react-native-country-detector';
+import {getCountryCode} from 'react-native-country-detector';
 
 const country: string | null = getCountryCode();
 
