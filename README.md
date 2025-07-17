@@ -1,7 +1,6 @@
 # Country Detector for React Native
 
 This package provides a React Native package for detecting the user's country accurately. It is designed to be used in both iOS and Android apps.
-It was designed because of `react-native-device-info` not being accurate enough for our use case.
 
 ‼️ On iOS, it uses a private API to determine the country, while on Android multiple methods are employed to ensure accuracy, including checking the SIM card, network operator, and locale settings.
 
