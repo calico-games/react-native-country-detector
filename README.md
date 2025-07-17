@@ -44,9 +44,9 @@ if (country) {
 
 ## API 👀
 
-| Method                                                              | Return Type         |  iOS | Android | Windows | Web  | visionOS |
+| Method                                                              | Return Type         |  iOS | Android |
 | ------------------------------------------------------------------- | ------------------- | :--: | :-----: | :-----: | :-:  | :------: |
-| getCountryCode()                              | `string \| null`   |  ✅  |   ✅    |   ✅     | ✅   |   ✅     |
+| getCountryCode()                              | `string \| null`   |   ✅    |   ✅     |
 
 ---
 
