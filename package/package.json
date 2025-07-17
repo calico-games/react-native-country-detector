@@ -1,0 +1,55 @@
+{
+  "name": "react-native-country-detector",
+  "version": "0.0.1",
+  "description": "Country Detector for React Native.",
+  "main": "src/index.js",
+  "files": [
+    "src",
+    "android",
+    "ios",
+    "CountryDetector.podspec",
+    "LICENSE"
+  ],
+  "scripts": {
+    "lint": "eslint \"**/*.{js,ts,tsx}\""
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "country",
+    "detector",
+    "location",
+    "geolocation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calico-games/react-native-country-detector.git"
+  },
+  "author": "Calico Games <seb@calico.games> (https://github.com/calico-games)",
+  "license": "MIT",
+  "homepage": "https://github.com/calico-games/react-native-country-detector",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "eslintIgnore": [
+    "node_modules/",
+    "lib/"
+  ],
+  "prettier": {
+    "quoteProps": "consistent",
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "es5",
+    "useTabs": false
+  },
+  "bugs": {
+    "url": "https://github.com/calico/react-native-country-detector/issues"
+  },
+  "dependencies": {}
+}
